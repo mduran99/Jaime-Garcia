@@ -1,0 +1,18 @@
+img{
+    height:300px;
+    width:300px;
+    
+    border-radius: 50%;
+}
+body {
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/28/24/jungle-background-with-palm-tree-leaves-vector-9052824.jpg");
+ background-color: #cccccc;
+}
+h3{
+  font-size: 13px;
+
+  font-family: 'Major Mono Display', monospace; }
+body{
+  text-align:center;
+  
+}
